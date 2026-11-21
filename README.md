@@ -20,3 +20,4 @@ Juego de Buscaminas en consola desarrollado en Java aplicando Programación Orie
    1  2  3  4  5  6  7  8  9 10
 A  V  V  1  #  #  #  #  #  #  #
 B  V  1  2  #  #  #  #  #  #  #
+C  V  2  1  #  #  #  #  #  #
